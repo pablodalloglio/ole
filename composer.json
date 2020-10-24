@@ -24,7 +24,6 @@
     "minimum-stability": "dev",
     "name": "pablodalloglio/ole",
     "support": {
-        "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=OLE",
         "source": "https://github.com/pablodalloglio/OLE"
     },
     "type": "library"
