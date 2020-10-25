@@ -20,7 +20,7 @@
     "include-path": [
         "./"
     ],
-    "license": "PHP",
+    "license": "PHP-3.01",
     "minimum-stability": "dev",
     "name": "pablodalloglio/ole",
     "support": {
