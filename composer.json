@@ -16,7 +16,7 @@
             "OLE": "./"
         }
     },
-    "description": "More info available on: http://pear.php.net/package/OLE",
+    "description": "Derivation from pear OLE without PEAR dependency, and with Exceptions instead of PearErrors.",
     "include-path": [
         "./"
     ],
